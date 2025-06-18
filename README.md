@@ -1,0 +1,1 @@
+This is a simple web company profile using HTML, CSS, JS, PHP, and MySQL technologies. There are admin and user views on the web system. It contains information about the company where I did my internship and what activities are carried out there. This project is the final assignment given by the school when I completed my internship in 2023 and was developed for 6 months.
